@@ -1,7 +1,7 @@
 # S5O
-SimPly MD5 0nline for Python 2.7 / 3-(with bug/artefact)
+SimPly MD5 Cmp Online for Python 2.7 / 3-(with bug/artefact)
 
-Very Simple MD5 Search-Decrypt-Hash Script(online API), requests,
+Very Simple MD5 Search-Cmp-Hash Script(online API), requests,
 if (return == ''): not found ! sorry .
 
 maybe improve ...
